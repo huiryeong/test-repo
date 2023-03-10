@@ -1,4 +1,7 @@
-text.file
-test.file
-Hankuk University of Foreign Studies 
-Park Hui Ryeong 
+Welcome to Python
+
+Commit change made 
+
+print("Hello World!")
+
+return 0;
