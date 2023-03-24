@@ -1,15 +1,13 @@
-Welcome to Python
+# Welcome to Python
 
-Commit change made 
-Touched by user2 
-Editing user1's code from user2
+# Commit change made 
+# Touched by user2
+# Editing user1's code from user2
+
 print("Hello World!")
 
-return 0;
+# Name : 박희령 
+# Major : Computer Science Engineering 
+# Student Number : 202201621 
 
-
-Name : 박희령 
-Major : Computer Science Engineering 
-Student Number : 202201621 
-
-Editing completed. 
+# Editing completed. 
